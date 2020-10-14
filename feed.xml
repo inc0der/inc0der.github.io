@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>inc0der</title>
+    <link href="https://inc0der.github.io/feed.xml" rel="self" />
+    <link href="https://inc0der.github.io" />
+    <updated>1969-12-31T20:00:00-04:00</updated>
+    <author>
+        <name>inc0der</name>
+    </author>
+    <id>https://inc0der.github.io</id>
+
+    <entry>
+        <title>Welcome to my portfolio!</title>
+        <author>
+            <name>inc0der</name>
+        </author>
+        <link href="https://inc0der.github.io/home.html"/>
+        <id>https://inc0der.github.io/home.html</id>
+
+        <updated>2020-10-13T21:07:51-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Welcome! I'm inc0der, a code sorcerer who weaves code like a wizard casts spells and this is my portfolio. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Welcome! I'm inc0der, a code sorcerer who weaves code like a wizard casts spells and this is my portfolio. </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "inc0der",
+    "description": "",
+    "home_page_url": "https://inc0der.github.io",
+    "feed_url": "https://inc0der.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "inc0der"
+    },
+    "items": [
+        {
+            "id": "https://inc0der.github.io/home.html",
+            "url": "https://inc0der.github.io/home.html",
+            "title": "Welcome to my portfolio!",
+            "summary": "Welcome! I'm inc0der, a code sorcerer who weaves code like a wizard casts spells and this is my portfolio. ",
+            "content_html": "<p>Welcome! I'm inc0der, a code sorcerer who weaves code like a wizard casts spells and this is my portfolio. </p>",
+            "author": {
+                "name": "inc0der"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-10-13T21:07:51-03:00",
+            "date_modified": "2020-10-13T21:07:51-03:00"
+        }
+    ]
+}
